@@ -1,31 +1,43 @@
-Sadovnikov Viktor
-Location: Belgium
-Phone +32466-492397
-Email: daskiv@icloud.com
-Git Hub: ViktorSad
+# Sadovnikov Viktor
 
-About Me
+**Location:** Belgium
+**Phone** +32466-492397
+**Email:** _daskiv@icloud.com_
+**Git Hub:** [ViktorSad](https://github.com/ViktorSad))
+===
+
+## About Me
+
 I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills.
 I am reliable and dependable and often seek new responsibilities within a wide range of employment areas.
+===
 
-Skills
-HTML
-CSS/SASS
-JavaScript (Basic)
-Git
-Code Example:JS
+## Skills:
 
-function descendingOrder(n) {
-return Number(String(n).split("").sort((a,b)=>(b-a)).join(""));
-}
+- HTML5
+- CSS/SASS
+- JavaScript (Basic)
+- Git
+- Bootstrap
+- Python
+- Visual Basic
 
-describe("Basic tests", () => {
-it("Testing for fixed tests", () => {
-assert.strictEqual(descendingOrder(0), 0)
-assert.strictEqual(descendingOrder(1), 1)
-assert.strictEqual(descendingOrder(111), 111)
-assert.strictEqual(descendingOrder(15), 51)
-assert.strictEqual(descendingOrder(1021), 2110)
-assert.strictEqual(descendingOrder(123456789), 987654321)
-})
-})
+## [Code Example:](https://www.codewars.com/kata/5467e4d82edf8bbf40000155/train/javascript)
+
+> function descendingOrder(n) {
+> return Number(String(n).split("").sort((a,b)=>(b-a)).join(""));
+> }
+> ===
+
+## Experience
+
+## Education
+
+## University: Pedagogical University, Teacher of math & computers
+
+##Courses:
+
+- Dutch (B1)
+- HTML Academy
+- English
+  C1 (worked in foreign companies for 10 years )
