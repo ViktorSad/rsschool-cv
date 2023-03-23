@@ -1,16 +1,17 @@
 # Sadovnikov Viktor
 
 **Location:** Belgium
+
 **Phone** +32466-492397
+
 **Email:** _daskiv@icloud.com_
+
 **Git Hub:** [ViktorSad](https://github.com/ViktorSad))
-===
 
 ## About Me
 
 I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills.
 I am reliable and dependable and often seek new responsibilities within a wide range of employment areas.
-===
 
 ## Skills:
 
@@ -27,7 +28,7 @@ I am reliable and dependable and often seek new responsibilities within a wide r
     function descendingOrder(n) {
     return Number(String(n).split("").sort((a,b)=>(b-a)).join(""));
 
-# }
+}
 
 ## Experience
 
@@ -35,7 +36,7 @@ I am reliable and dependable and often seek new responsibilities within a wide r
 
 ## University: Pedagogical University, Teacher of math & computers
 
-##Courses:
+## Courses:
 
 - Dutch (B1)
 - HTML Academy
