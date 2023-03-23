@@ -24,10 +24,10 @@ I am reliable and dependable and often seek new responsibilities within a wide r
 
 ## [Code Example:](https://www.codewars.com/kata/5467e4d82edf8bbf40000155/train/javascript)
 
-> function descendingOrder(n) {
-> return Number(String(n).split("").sort((a,b)=>(b-a)).join(""));
-> }
-> ===
+    function descendingOrder(n) {
+    return Number(String(n).split("").sort((a,b)=>(b-a)).join(""));
+
+# }
 
 ## Experience
 
